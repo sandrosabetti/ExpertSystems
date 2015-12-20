@@ -1,0 +1,290 @@
+00:09:55,154  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Tue Dec 10 00:09:55 EET 2013
+00:09:57,459  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+00:09:57,460  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:09:57,906  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+00:09:57,907  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:09:58,071  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Является ли первоначальная временная структура исходной информацией для модели?
+
+00:09:58,072  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:09:58,217  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Модель должна обязательно иметь аналитическое представление?
+
+00:09:58,218  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:09:58,399  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question В модели должен быть предусмотрен эффект возвращения к среднему?
+
+00:09:58,400  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:09:59,110  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите иметь большие возможности выбора временной структуры и волатильности?
+
+00:09:59,110  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:09:59,121  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:48 - Outputted result Двухфакторная модель Халла-Уайта
+
+00:27:43,384  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Thu Dec 12 00:27:43 EET 2013
+00:27:44,883  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+00:27:44,892  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:27:46,012  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+00:27:46,013  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:27:46,461  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Является ли первоначальная временная структура исходной информацией для модели?
+
+00:27:46,461  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:27:46,757  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Модель должна обязательно иметь аналитическое представление?
+
+00:27:46,758  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:27:47,542  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question В модели должен быть предусмотрен эффект возвращения к среднему?
+
+00:27:47,543  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:27:47,983  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите иметь большие возможности выбора временной структуры и волатильности?
+
+00:27:47,983  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:27:48,021  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:48 - Outputted result Двухфакторная модель Халла-Уайта
+
+00:29:29,786  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Thu Dec 12 00:29:29 EET 2013
+00:31:24,380  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Thu Dec 12 00:31:24 EET 2013
+00:31:26,322  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+00:31:26,323  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:31:27,003  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+00:31:27,004  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:31:27,603  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Является ли первоначальная временная структура исходной информацией для модели?
+
+00:31:27,604  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:31:28,212  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Модель должна обязательно иметь аналитическое представление?
+
+00:31:28,212  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:31:28,788  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question В модели должен быть предусмотрен эффект возвращения к среднему?
+
+00:31:28,789  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:31:29,430  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите иметь большие возможности выбора временной структуры и волатильности?
+
+00:31:29,430  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+00:31:29,446  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:48 - Outputted result Двухфакторная модель Халла-Уайта
+
+16:21:19,197  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Sat Dec 14 16:21:19 EET 2013
+16:21:20,434  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+16:21:20,462  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:21,138  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+16:21:21,138  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:21,883  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Является ли первоначальная временная структура исходной информацией для модели?
+
+16:21:21,883  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:53,604  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Sat Dec 14 16:21:53 EET 2013
+16:21:54,406  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+16:21:54,407  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:54,701  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+16:21:54,702  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:54,952  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Является ли первоначальная временная структура исходной информацией для модели?
+
+16:21:54,952  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:55,422  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Модель должна обязательно иметь аналитическое представление?
+
+16:21:55,423  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:56,254  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question В модели должен быть предусмотрен эффект возвращения к среднему?
+
+16:21:56,255  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:56,919  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите иметь большие возможности выбора временной структуры и волатильности?
+
+16:21:56,919  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:21:57,182  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:48 - Outputted result Двухфакторная модель Халла-Уайта
+
+13:16:50,204  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Mon Dec 16 13:16:50 EET 2013
+13:16:51,393  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+13:16:51,394  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+13:16:51,673  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+13:16:51,673  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+13:16:51,921  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Является ли первоначальная временная структура исходной информацией для модели?
+
+13:16:51,921  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+13:16:52,152  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Модель должна обязательно иметь аналитическое представление?
+
+13:16:52,152  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+13:16:52,297  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question В модели должен быть предусмотрен эффект возвращения к среднему?
+
+13:16:52,298  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+13:16:52,506  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите иметь большие возможности выбора временной структуры и волатильности?
+
+13:16:52,506  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+13:16:52,521  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:48 - Outputted result Двухфакторная модель Халла-Уайта
+
+22:24:00,386  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Thu Dec 19 22:24:00 EET 2013
+22:24:00,487  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Thu Dec 19 22:24:00 EET 2013
+22:24:01,320  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+22:24:01,321  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+22:24:01,656  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+22:24:01,656  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+22:24:01,856  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Является ли первоначальная временная структура исходной информацией для модели?
+
+22:24:01,857  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+22:24:02,200  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Модель должна обязательно иметь аналитическое представление?
+
+22:24:02,200  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+22:24:02,743  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question В модели должен быть предусмотрен эффект возвращения к среднему?
+
+22:24:02,744  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+22:24:03,015  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите иметь большие возможности выбора временной структуры и волатильности?
+
+22:24:03,016  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+22:24:03,035  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:48 - Outputted result Двухфакторная модель Халла-Уайта
+
+18:15:41,823  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Wed Jan 01 18:15:41 EET 2014
+18:15:47,513  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+18:15:47,514  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+18:15:49,011  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:60 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+18:15:49,011  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:64 - Getted answer No
+18:15:49,039  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:70 - Outputted result Модели на  основе модели  Блека-Шоулса
+
+16:42:49,411  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Sun Jan 05 16:42:49 EET 2014
+16:42:50,775  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+16:42:50,776  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+16:42:51,487  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:60 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+16:42:51,488  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:64 - Getted answer No
+16:42:51,513  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:70 - Outputted result Модели на  основе модели  Блека-Шоулса
+
+14:45:02,886  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Thu Jan 09 14:45:02 EET 2014
+14:45:07,953  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Хотите подобрать модель для оценки премии опциона на облигации?
+
+14:45:07,962  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+14:45:08,762  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Учитывать эволюцию ноль-купонных процентных ставок?
+
+14:45:08,763  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+14:45:09,691  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:60 - Putted question Является ли первоначальная временная структура исходной информацией для модели?
+
+14:45:09,692  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:64 - Getted answer No
+14:45:10,451  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Putted question Вы хотите использовать многофакторную модель?
+
+14:45:10,452  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Getted answer Yes
+14:45:10,980  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:60 - Putted question Стохастические процессы по долгосрочной и краткосрочной ставке взаимообратны?
+
+14:45:10,980  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:64 - Getted answer No
+14:45:11,011  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:70 - Outputted result Модель Лонгстаффа
+
+15:34:43,778  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Fri Jan 10 15:34:43 EET 2014
+15:34:45,027  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+15:34:45,028  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Gotten answer Yes
+15:34:45,948  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:60 - Put question Учитывать эволюцию ноль-купонных процентных ставок?
+
+15:34:45,948  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:64 - Gotten answer No
+15:34:45,966  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:70 - Outputted result Модели на  основе модели  Блека-Шоулса
+
+16:35:40,076  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Fri Jan 10 16:35:40 EET 2014
+16:41:39,083  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Fri Jan 10 16:41:39 EET 2014
+23:02:24,995  INFO AWT-EventQueue-0 Consultation_window:<init>:22 - Started consultation mode on Mon Jan 13 23:02:24 EET 2014
+23:02:25,851  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:38 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:02:25,853  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Gotten answer Yes
+23:02:26,660  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:60 - Put question Учитывать эволюцию ноль-купонных процентных ставок?
+
+23:02:26,660  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:64 - Gotten answer No
+23:02:26,695  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:70 - Outputted result Модели на  основе модели  Блека-Шоулса
+
+23:08:25,571  INFO AWT-EventQueue-0 Consultation_window:<init>:24 - Started consultation mode on Mon Jan 13 23:08:25 EET 2014
+23:08:28,429  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:08:28,430  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:08:32,467  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:08:32,467  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:08:33,971  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Учитывать эволюцию ноль-купонных процентных ставок?
+
+23:08:33,972  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:08:44,950  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:08:44,951  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:08:49,432  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:64 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:08:49,432  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:69 - Gotten answer No
+23:08:49,450  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:75 - Outputted result Вам вообще не нужно приобретать облигации
+
+23:09:41,991  INFO AWT-EventQueue-0 Consultation_window:<init>:24 - Started consultation mode on Mon Jan 13 23:09:41 EET 2014
+23:09:43,891  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:09:43,891  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:09:45,995  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:09:45,996  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:09:50,013  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:64 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:09:50,014  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:69 - Gotten answer No
+23:09:50,040  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:75 - Outputted result Вам вообще не нужно приобретать облигации
+
+23:17:10,459  INFO AWT-EventQueue-0 Consultation_window:<init>:24 - Started consultation mode on Mon Jan 13 23:17:10 EET 2014
+23:17:12,277  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:17:12,277  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:17:14,710  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:17:14,710  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:17:15,366  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Учитывать эволюцию ноль-купонных процентных ставок?
+
+23:17:15,367  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:46 - Gotten answer Yes
+23:18:02,777  INFO AWT-EventQueue-0 Consultation_window:<init>:24 - Started consultation mode on Mon Jan 13 23:18:02 EET 2014
+23:18:03,993  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+23:18:03,994  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:47 - Gotten answer Yes
+23:18:04,593  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:42 - Put question Учитывать эволюцию ноль-купонных процентных ставок?
+
+23:18:04,594  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:47 - Gotten answer Yes
+14:40:40,501  INFO AWT-EventQueue-0 Consultation_window:<init>:24 - Started consultation mode on Tue Jan 14 14:40:40 EET 2014
+14:43:08,612  INFO AWT-EventQueue-0 Consultation_window:<init>:25 - Started consultation mode on Tue Jan 14 14:43:08 EET 2014
+14:43:31,237  INFO AWT-EventQueue-0 Consultation_window:<init>:25 - Started consultation mode on Tue Jan 14 14:43:31 EET 2014
+14:43:58,755  INFO AWT-EventQueue-0 Consultation_window:<init>:25 - Started consultation mode on Tue Jan 14 14:43:58 EET 2014
+14:44:17,646  INFO AWT-EventQueue-0 Consultation_window:<init>:25 - Started consultation mode on Tue Jan 14 14:44:17 EET 2014
+14:44:37,665  INFO AWT-EventQueue-0 Consultation_window:<init>:25 - Started consultation mode on Tue Jan 14 14:44:37 EET 2014
+14:45:40,678  INFO AWT-EventQueue-0 Consultation_window:<init>:25 - Started consultation mode on Tue Jan 14 14:45:40 EET 2014
+14:47:51,060  INFO AWT-EventQueue-0 Consultation_window:<init>:25 - Started consultation mode on Tue Jan 14 14:47:51 EET 2014
+14:48:16,634  INFO AWT-EventQueue-0 Consultation_window:<init>:25 - Started consultation mode on Tue Jan 14 14:48:16 EET 2014
+14:48:42,858  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:48:42 EET 2014
+14:48:48,208  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:69 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+14:48:48,209  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:74 - Gotten answer No
+14:48:48,224  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:80 - Outputted result Вам вообще не нужно приобретать облигации
+
+14:49:07,960  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:49:07 EET 2014
+14:49:09,855  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:69 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+14:49:09,856  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:74 - Gotten answer No
+14:49:09,889  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:80 - Outputted result Вам вообще не нужно приобретать облигации
+
+14:50:22,260  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:50:22 EET 2014
+14:50:48,733  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:50:48 EET 2014
+14:56:52,367  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:56:52 EET 2014
+14:57:12,635  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:57:12 EET 2014
+14:58:12,653  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:58:12 EET 2014
+14:58:34,337  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:58:34 EET 2014
+14:59:20,895  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 14:59:20 EET 2014
+15:00:22,218  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:00:22 EET 2014
+15:00:39,192  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:00:39 EET 2014
+15:01:19,949  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:01:19 EET 2014
+15:01:57,369  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:01:57 EET 2014
+15:02:42,482  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:02:42 EET 2014
+15:02:57,484  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:02:57 EET 2014
+15:03:30,920  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:03:30 EET 2014
+15:04:30,548  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:04:30 EET 2014
+15:04:48,079  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:04:48 EET 2014
+15:05:29,257  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:05:29 EET 2014
+15:05:31,354  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:74 - Put question Хотите подобрать модель для оценки премии опциона на облигации?
+
+15:05:31,355  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:79 - Gotten answer No
+15:05:31,385  INFO AWT-EventQueue-0 Consultation_window:actionPerformed:85 - Outputted result Вам вообще не нужно приобретать облигации
+
+15:06:15,210  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:06:15 EET 2014
+15:06:35,886  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:06:35 EET 2014
+15:08:28,928  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:08:28 EET 2014
+15:08:48,078  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:08:48 EET 2014
+15:09:03,762  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:09:03 EET 2014
+15:18:40,378  INFO AWT-EventQueue-0 Consultation_window:<init>:26 - Started consultation mode on Tue Jan 14 15:18:40 EET 2014
